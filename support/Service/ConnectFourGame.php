@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace Support\Service;
 
+use Psr\Container\ContainerInterface;
 use Support\Entity\Connect4\Player;
 use Support\Renderer\Output;
 
